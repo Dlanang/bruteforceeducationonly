@@ -1,0 +1,7 @@
+MR.Fox Report v0.8
+========================
+Penyerang  : 104.28.217.184
+Target URL : http://testphp.vulnweb.com/login.php
+Timestamp  : 2025-06-03 23:02:54
+========================
+Berhasil -> test:test | Info: [→] LOGIN BERHASIL (DIALIHKAN 302): test | test | Redirect: login.php
