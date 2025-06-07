@@ -35,11 +35,9 @@ pip install -r requirements.txt
 ./run.sh
 ````
 
----
-
 ## 📄 Struktur Proyek
 
-```
+ 
 MR.FOX/
 ├── bruteforce.py        # File utama
 ├── ascii.py             # ASCII banner
@@ -74,8 +72,6 @@ Masukkan target URL (contoh: 192.168.1.1/login):
 
 > Anda bisa input tanpa `http://` → akan otomatis diperbaiki.
 
----
-
 ## 📊 Output
 
 Hasil percobaan brute-force akan ditampilkan di terminal dan disimpan dalam:
@@ -90,15 +86,11 @@ Contoh isi:
 Berhasil -> admin:admin123 | Respon Length: 1745
 ```
 
----
-
 ## 💡 Catatan
 
 * Gunakan `wordlist.txt` dalam folder root proyek.
 * Tools ini *tidak menggunakan* tools eksternal seperti `ffuf` untuk menjaga portabilitas.
 * Cocok untuk pentest internal dan latihan edukasi.
-
----
 
 ## ✅ Fitur Mendatang (roadmap)
 
@@ -108,22 +100,11 @@ Berhasil -> admin:admin123 | Respon Length: 1745
 * [ ] GUI mode
 * [ ] Integrasi bypass rate-limit dasar
 
----
-
 ## ⚠️ Legal
 
 > Tools ini hanya untuk **keperluan edukasi dan pentesting legal**. Segala penyalahgunaan di luar izin target bukan tanggung jawab developer.
 
----
-
 ## 🧠 Author
 
-**MR.FOX** by [Lanang](mailto:mr.fox@example.com) 🦊
+**MR.FOX** by [Lanang](mailto:ceo@dhimaslanangnugroho.my.id) 🦊
 Red Team Project • 2025
-
----
-
-```
-
-Jika kamu ingin `README.md` ini juga dilengkapi **GIF animasi**, screenshot CLI, atau badge (contoh: Python version, status), tinggal beri tahu.
-```
